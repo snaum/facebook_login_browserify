@@ -40,7 +40,7 @@
           ( https://developers.facebook.com/apps/ ) 
           */
 
-          appId: '1540568226241773', 
+          appId: 'xxxxxxx', 
 
           /* 
           Adding a Channel File improves the performance 
